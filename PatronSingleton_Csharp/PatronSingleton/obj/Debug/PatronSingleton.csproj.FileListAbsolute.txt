@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\PatronSingleton\PatronSingleton\bin\Debug\PatronSingleton.exe.config
+C:\Users\pc\source\repos\PatronSingleton\PatronSingleton\bin\Debug\PatronSingleton.exe
+C:\Users\pc\source\repos\PatronSingleton\PatronSingleton\bin\Debug\PatronSingleton.pdb
+C:\Users\pc\source\repos\PatronSingleton\PatronSingleton\obj\Debug\PatronSingleton.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\PatronSingleton\PatronSingleton\obj\Debug\PatronSingleton.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\PatronSingleton\PatronSingleton\obj\Debug\PatronSingleton.exe
+C:\Users\pc\source\repos\PatronSingleton\PatronSingleton\obj\Debug\PatronSingleton.pdb

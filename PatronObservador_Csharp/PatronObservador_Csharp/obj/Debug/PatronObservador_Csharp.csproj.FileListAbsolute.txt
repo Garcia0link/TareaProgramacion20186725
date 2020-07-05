@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\PatronObservador_Csharp\PatronObservador_Csharp\obj\Debug\PatronObservador_Csharp.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\PatronObservador_Csharp\PatronObservador_Csharp\obj\Debug\PatronObservador_Csharp.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\PatronObservador_Csharp\PatronObservador_Csharp\bin\Debug\PatronObservador_Csharp.exe.config
+C:\Users\pc\source\repos\PatronObservador_Csharp\PatronObservador_Csharp\bin\Debug\PatronObservador_Csharp.exe
+C:\Users\pc\source\repos\PatronObservador_Csharp\PatronObservador_Csharp\bin\Debug\PatronObservador_Csharp.pdb
+C:\Users\pc\source\repos\PatronObservador_Csharp\PatronObservador_Csharp\obj\Debug\PatronObservador_Csharp.exe
+C:\Users\pc\source\repos\PatronObservador_Csharp\PatronObservador_Csharp\obj\Debug\PatronObservador_Csharp.pdb
